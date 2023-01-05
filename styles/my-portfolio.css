@@ -131,14 +131,14 @@ font-size: 20px;
     font-weight: 700;
 font-size: 35px;
 color: #181818;
-margin-top: 130px;
+margin-bottom: 0px;
 }
 .section-description{
     font-weight: 400;
 font-size: 18px;
 color: #757575;
 text-align: center;
-margin: 30px 246px 50px 245px;
+margin: 0px 246px 50px 245px;
 }
 .skills-container {
     display: flex;
@@ -207,4 +207,76 @@ margin-bottom: 113px;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 113px;
+}
+/* footer section */
+footer{
+    background-color: #FFF8F3;;
+}
+.footer-container {
+     display: flex;
+}
+.footer-elements {
+    margin-left: 350px;
+}
+.footer-elements-two {
+    margin-left: 350px;
+}
+.footer-head {
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+.footer-parag {
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.footer-icon{
+    display: flex;
+    gap: 24px;
+}
+.input-name {
+    width: 461px;
+height: 50px;
+background: #FFFFFF;
+border-radius: 5px;
+border: 0px;
+padding: 30px;
+margin-bottom: 24px;
+}
+.input-email{
+    width: 461px;
+height: 50px;
+background: #FFFFFF;
+border-radius: 5px;
+border: 0px;
+padding: 30px;
+margin-bottom: 24px;
+}
+textarea {
+    width: 461px;
+height: 180px;
+background: #FFFFFF;
+border-radius: 5px;
+border: 0px;
+padding: 30px;
+margin-bottom: 24px;
+}
+form {
+    text-align: left;
+}
+.submit-btn {
+    background: #FD6E0A;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    width: 150px;
+    height: 64px;
+    color: #FFFFFF;
+    border: 0px;
+    margin-right: 400px;
+    margin-bottom: 130px;
 }
