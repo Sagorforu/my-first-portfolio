@@ -171,4 +171,40 @@ color: #757575;
 font-size: 35px;
 color: #181818;
 margin-top: 130px;
+margin-bottom: 113px;
+}
+.resume-container {
+    display: flex;
+    margin: 0 230px;
+    gap: 71px;
+}
+.rusume-h3-tittle {
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.rusume-sub-tittle {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.rusume-h5-bpara {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 10px;
+}
+.resume-button {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
 }
