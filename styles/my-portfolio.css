@@ -125,3 +125,50 @@ color: #757575;
     font-weight: 700;
 font-size: 20px;
 }
+/* what i do */
+.section-tittle {
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-top: 130px;
+}
+.section-description{
+    font-weight: 400;
+font-size: 18px;
+color: #757575;
+text-align: center;
+margin: 30px 246px 50px 245px;
+}
+.skills-container {
+    display: flex;
+    gap: 24px;
+    margin: 0px 230px;
+}
+.skill {
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 30px;
+}
+.skill-tittle {
+    font-weight: 700;
+font-size: 20px;
+color: #181818;
+margin-bottom: 20px;
+}
+.skill-description {
+    font-weight: 400;
+font-size: 16px;
+color: #757575;
+}
+.skill-img {
+    margin-bottom: 30px;
+}
+/* section resume */
+.section-tittle {
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-top: 130px;
+}
